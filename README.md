@@ -15,13 +15,13 @@ Saad, Omar M., Yapo Abolé Serge Innocent Oboué, Min Bai, Lotfy Samy, Liuqing Y
 
 BibTeX:
 
-@article{saad2021self,
-  title={Self-attention deep image prior network for unsupervised 3-D seismic data enhancement},
-  author={Saad, Omar M and Obou{\'e}, Yapo Abol{\'e} Serge Innocent and Bai, Min and Samy, Lotfy and Yang, Liuqing and Chen, Yangkang},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  volume={60},
-  pages={1--14},
-  year={2021},
-  publisher={IEEE}
-}
+  @article{saad2021self,
+    title={Self-attention deep image prior network for unsupervised 3-D seismic data enhancement},
+    author={Saad, Omar M and Obou{\'e}, Yapo Abol{\'e} Serge Innocent and Bai, Min and Samy, Lotfy and Yang, Liuqing and Chen, Yangkang},
+    journal={IEEE Transactions on Geoscience and Remote Sensing},
+    volume={60},
+    pages={1--14},
+    year={2021},
+    publisher={IEEE}
+  }
 -----------
