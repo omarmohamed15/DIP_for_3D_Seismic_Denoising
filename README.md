@@ -5,13 +5,13 @@ We develop a deep learning framework based on deep image prior (DIP) and squeeze
 
 ## How to run?
 
-Run Step1 to create the patches.
+1- Run Step1 to create the patches.
 
-Run Step2 to denoise the 3D noisy data.
+2- Run Step2 to denoise the 3D noisy data.
 
-Run Step3 to read the output patches and reconstruct the data.
+3- Run Step3 to read the output patches and reconstruct the data.
 
-Run SConstruct using the command "scons view" to plot the results.
+4- Run SConstruct using the command "scons view" to plot the results.
 
 
 ## Reference
