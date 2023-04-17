@@ -3,13 +3,13 @@
 
 We develop a deep learning framework based on deep image prior (DIP) and squeeze-and-excitation (SE) networks for 3D seismic data enhancement. Firstly, the 3D noisy data is divided into several overlapped patches. Secondly, the DIP network has a U-NET architecture, where the input patches are encoded to extract the significant latent features, while the decoder tries to reconstruct the input patches using these extracted features. Besides, the SE network is used to scale the extracted features from the encoder and decoder. Thirdly, the SE output of the encoder is concatenated with the SE output of the decoder to obtain high-order features and guide the network to extract the most significant information related to the seismic signals and discard the others. Finally, the 3D seismic data are reconstructed using the output patches obtained by the DIP network. The proposed algorithm is an iterative and unsupervised approach, which does not require labeled data.
 
-#Run Step1 to create the patches.
+Run Step1 to create the patches.
 
-#Run Step2 to denoise the 3D noisy data.
+Run Step2 to denoise the 3D noisy data.
 
-#Run Step3 to read the output patches and reconstruct the data.
+Run Step3 to read the output patches and reconstruct the data.
 
-#Run SConstruct using the command "scons view" to plot the results.
+Run SConstruct using the command "scons view" to plot the results.
 
 
 ## Reference
